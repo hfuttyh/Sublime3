@@ -1,0 +1,10 @@
+{
+	"executable": "python -m virtualenv",
+	"extra_paths":
+	[
+	],
+	"virtualenv_directories":
+	[
+		"/Users/Stephenjin/tensorflow"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ClangAutoComplete",
+		"CMake",
+		"ConvertToUTF8",
+		"Cscope",
+		"JsFormat",
+		"Markdown Extended",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimePythonIDE",
+		"Theme - Brogrammer",
+		"Virtualenv"
+	]
+}
